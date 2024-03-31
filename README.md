@@ -1,2 +1,2 @@
 # Projects
-Here are the projects done by me
+This is a google homepage clone using html and css.
